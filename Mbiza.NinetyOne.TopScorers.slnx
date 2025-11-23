@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Mbiza.NinetyOne.TopScorers.Api/Mbiza.NinetyOne.TopScorers.Api.csproj" />
+  <Project Path="Mbiza.NinetyOne.TopScorers.Application/Mbiza.NinetyOne.TopScorers.Application.csproj" />
+  <Project Path="Mbiza.NinetyOne.TopScorers.Domain/Mbiza.NinetyOne.TopScorers.Domain.csproj" />
+  <Project Path="Mbiza.NinetyOne.TopScorers.Infrastructure/Mbiza.NinetyOne.TopScorers.Infrastructure.csproj" />
+  <Project Path="Mbiza.NinetyOne.TopScorers.Services/Mbiza.NinetyOne.TopScorers.Services.csproj" />
+</Solution>
