@@ -3,5 +3,6 @@
   <Project Path="Mbiza.NinetyOne.TopScorers.Application/Mbiza.NinetyOne.TopScorers.Application.csproj" />
   <Project Path="Mbiza.NinetyOne.TopScorers.Domain/Mbiza.NinetyOne.TopScorers.Domain.csproj" />
   <Project Path="Mbiza.NinetyOne.TopScorers.Infrastructure/Mbiza.NinetyOne.TopScorers.Infrastructure.csproj" />
+  <Project Path="Mbiza.NinetyOne.TopScorers.Services.Tests/Mbiza.NinetyOne.TopScorers.Services.Tests.csproj" Id="53f288cf-bbb8-4118-bb90-f0432686554b" />
   <Project Path="Mbiza.NinetyOne.TopScorers.Services/Mbiza.NinetyOne.TopScorers.Services.csproj" />
 </Solution>
